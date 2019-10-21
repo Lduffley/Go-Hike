@@ -9,4 +9,6 @@
     url("img/nature.jpg");
     background-size: cover;
 }
-
+body{
+    background-color: aquamarine;
+}
